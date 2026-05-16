@@ -20,6 +20,7 @@ en utilisant le dataset AI4I 2020 (températures, vitesse rotation, couple moteu
 
 ## Architecture du projet
 
+```text
 ai-industrial-monitoring-platform/
 ├── data/
 │   ├── raw/           # données brutes (jamais modifiées)
@@ -34,6 +35,7 @@ ai-industrial-monitoring-platform/
 ├── dashboard/         # Streamlit
 ├── models/            # modèles sauvegardés
 └── tests/
+```
 
 ## Statut
 
