@@ -36,6 +36,19 @@ ai-industrial-monitoring-platform/
 ├── models/            # modèles sauvegardés
 └── tests/
 ```
+## Visualisations
+
+### Distribution des types de machines
+![Distribution types](outputs/distribution_types.png)
+
+### Taux de pannes par type de machine
+![Taux pannes](outputs/distribution_pannes_par_types.png)
+
+### Modes de panne
+![Modes panne](outputs/distribution_modes_panne.png)
+
+### Matrice de corrélation
+![Corrélation](outputs/corrélation_plotly.png)
 
 ## Statut
 
