@@ -34,6 +34,7 @@ ai-industrial-monitoring-platform/
 ├── api/               # FastAPI
 ├── dashboard/         # Streamlit
 ├── models/            # modèles sauvegardés
+├── outputs/           # graphiques et visualisations
 └── tests/
 ```
 ## Visualisations
