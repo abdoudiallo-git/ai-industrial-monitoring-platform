@@ -44,10 +44,10 @@ ai-industrial-monitoring-platform/
 ![Distribution types](outputs/distribution_types.png)
 
 ### Failure Rate by Machine Type
-![Failure rate](outputs/taux_pannes_type.png)
+![Failure rate](outputs/failure_rate.png)
 
 ### Failure Modes
-![Failure modes](outputs/modes_panne.png)
+![Failure modes](outputs/failure_modes.png)
 
 ### Correlation Matrix
 ![Correlation](outputs/correlation.png)
