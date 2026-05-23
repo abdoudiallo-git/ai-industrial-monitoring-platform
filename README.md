@@ -54,7 +54,7 @@ ai-industrial-monitoring-platform/
 
 ## Status
 
-🚧 Work in progress — Phase 1/6 (Python & GitHub)
+🚧 Work in progress — Phase 2/6 (Data Analysis & Dashboard)
 
 ## Roadmap
 
