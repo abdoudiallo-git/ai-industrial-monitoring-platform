@@ -54,12 +54,12 @@ ai-industrial-monitoring-platform/
 
 ## Status
 
-🚧 Work in progress — Phase 2/6 (Data Analysis & Dashboard)
+🚧 Work in progress — Phase 3/6 (FastAPI + PostgreSQL)
 
 ## Roadmap
 
 - [x] Phase 1 — Python & GitHub
-- [ ] Phase 2 — Data Analysis & Dashboard
+- [x] Phase 2 — Data Analysis & Dashboard
 - [ ] Phase 3 — FastAPI + PostgreSQL
 - [ ] Phase 4 — Docker & MLflow
 - [ ] Phase 5 — PySpark
