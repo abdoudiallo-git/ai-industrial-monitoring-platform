@@ -10,3 +10,4 @@ data/raw/*
 *.ipynb_checkpoints
 mlruns/
 mlflow.db
+requirements-docker.txt
