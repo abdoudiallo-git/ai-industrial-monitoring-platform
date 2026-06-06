@@ -23,7 +23,7 @@ Built on the AI4I 2020 Predictive Maintenance dataset (10,000 data points from a
 ## Screenshots
 
 ### Dashboard — KPIs & Analytics
-![Dashboard KPIs](outputs/1_kpi.png)
+![Dashboard KPIs](outputs/1_kpis.png)
 
 ### Dashboard — Real-time Prediction
 ![Prediction](outputs/2_prediction.png)
