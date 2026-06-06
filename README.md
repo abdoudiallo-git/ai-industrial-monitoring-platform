@@ -54,7 +54,7 @@ ai-industrial-monitoring-platform/
 
 ## Status
 
-🚧 Work in progress — Phase 5/6 (PySpark)
+🚧 Work in progress — Phase 6/6 (Portfolio & Applications)
 
 ## Roadmap
 
@@ -62,5 +62,5 @@ ai-industrial-monitoring-platform/
 - [x] Phase 2 — Data Analysis & Dashboard
 - [x] Phase 3 — FastAPI + PostgreSQL
 - [x] Phase 4 — Docker & MLflow
-- [ ] Phase 5 — PySpark
+- [x] Phase 5 — PySpark
 - [ ] Phase 6 — Portfolio & Applications
